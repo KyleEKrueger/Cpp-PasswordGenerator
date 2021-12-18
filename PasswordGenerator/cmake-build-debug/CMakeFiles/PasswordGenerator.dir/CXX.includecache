@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/imakepoptarts/CLionProjects/PasswordGenerator/main.cpp
+iostream
+-
+regex
+-
+string
+-
+fstream
+-
+unordered_map
+-
+random
+-
+
